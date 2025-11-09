@@ -1,0 +1,2 @@
+# lscripts
+basic scripts
